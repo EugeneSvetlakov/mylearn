@@ -1,3 +1,4 @@
 файл-описание в uft кодировке
 Пример работы с git
 hello vetka2
+hellow2 vetka2
